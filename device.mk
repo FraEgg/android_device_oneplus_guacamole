@@ -17,11 +17,6 @@ PRODUCT_PACKAGES += \
     vendor.lineage.camera.motor@1.0 \
     vendor.lineage.camera.motor@1.0-service.guacamole \
     OnePlusCameraHelper
-	
-# Prebuilts
-PRODUCT_PACKAGES += \
-    OnePlusCamera \
-    OnePlusGallery
 
 # Device init scripts
 PRODUCT_PACKAGES += \
